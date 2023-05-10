@@ -2,7 +2,7 @@ from controller import *
 
 
 def main():
-    """main function to start book application"""
+    #main function to start book application
     app = QApplication([])
     window = Controller()
     window.show()
