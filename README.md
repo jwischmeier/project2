@@ -1,4 +1,6 @@
 # project2
+The program stores a list of books. It also has the capability of looking up books by their ISBN.
+
 Initialize the books.csv file with the first line containing header information: ISBN,Author,Title
 
 Enter the ISBN number and click the Lookup ISBN button and the program will connect to the Internet and retrieve the book's title and author.
